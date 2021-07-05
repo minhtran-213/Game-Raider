@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1585568165 source:d:\train c\final - f_project\raider\main.c
+	<stdio.h>
+	<stdlib.h>
+	"RAIDER.h"
+
+1585494936 d:\train c\final - f_project\raider\raider.h
+	<windows.h>
+	<MMsystem.h>
+
